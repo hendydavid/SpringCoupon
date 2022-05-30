@@ -9,7 +9,7 @@ public class SpringBootCoupon {
     public static void main(String[] args) {
 
         ConfigurableApplicationContext ctx = SpringApplication.run(SpringBootCoupon.class, args);
-
+fvbdbbgbbfg
     }
 
 }
